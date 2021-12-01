@@ -50,6 +50,6 @@ I don't know about the endgame. It's luck. I'm going for the corner.
 
 ## Else
 
-The game is too small and dirty for the next version
+The computer is weak and the code is messy, so I will be working on the next version.
 
 Translated by DeepL
