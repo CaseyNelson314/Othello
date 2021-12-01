@@ -3,6 +3,8 @@ C++学習初期に作ったものです
 
 [English](/en.md)
 
+[code](/Othello/Othello.ino)
+
 # Overview
 
 ## 表示
