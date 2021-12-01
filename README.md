@@ -1,6 +1,8 @@
 # Othello
 C++学習初期に作ったものです
 
+[English](/en.md)
+
 # Overview
 
 - 表示
