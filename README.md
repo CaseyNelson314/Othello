@@ -1,11 +1,15 @@
-# Othello
+# New version
+
+https://github.com/CaseyNelson314/Othello_Prosessing
+
+## Othello
 C++学習初期に作ったものです
 
 [English](/en.md)
 
 [code](/Othello/Othello.ino)
 
-# Overview
+## Overview
 
 ## 表示
 
