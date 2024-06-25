@@ -1,6 +1,6 @@
 /*
         @file   Othello.ino
-        @brief  オセロ※クソ杉注意
+        @brief  オセロ
         @author CaseyNelson314
         @date   2021/8/31
 */
